@@ -12,9 +12,16 @@
     "laravel",
     "parse"
   ],
-  "author": "Sjors van Leeuwen",
+  "author": {
+    "name": "Sjors van Leeuwen",
+    "email": "sjors@sjorsvanleeuwen.com"
+  },
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.16.4"
+    "lodash": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjorsvanleeuwen/laravel-string-template.git"
   }
 }
