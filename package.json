@@ -1,6 +1,6 @@
 {
   "name": "laravel-string-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "String template parser like Laravel",
   "main": "laravel-string-template.js",
   "scripts": {
